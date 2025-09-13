@@ -1,0 +1,101 @@
+﻿restaurant_id,restaurant_name,city,cuisine
+1,Rest_1,Pune,Italian
+2,Rest_2,Bangalore,Mexican
+3,Rest_3,Hyderabad,Italian
+4,Rest_4,Pune,Indian
+5,Rest_5,Hyderabad,Italian
+6,Rest_6,Delhi,Fast Food
+7,Rest_7,Delhi,Italian
+8,Rest_8,Mumbai,Chinese
+9,Rest_9,Pune,Indian
+10,Rest_10,Hyderabad,Chinese
+11,Rest_11,Bangalore,Chinese
+12,Rest_12,Delhi,Fast Food
+13,Rest_13,Delhi,Indian
+14,Rest_14,Bangalore,Indian
+15,Rest_15,Hyderabad,Indian
+16,Rest_16,Hyderabad,Indian
+17,Rest_17,Pune,Indian
+18,Rest_18,Pune,Fast Food
+19,Rest_19,Mumbai,Italian
+20,Rest_20,Delhi,Chinese
+21,Rest_21,Pune,Indian
+22,Rest_22,Hyderabad,Italian
+23,Rest_23,Bangalore,Italian
+24,Rest_24,Hyderabad,Chinese
+25,Rest_25,Delhi,Fast Food
+26,Rest_26,Hyderabad,Mexican
+27,Rest_27,Mumbai,Mexican
+28,Rest_28,Delhi,Italian
+29,Rest_29,Bangalore,Chinese
+30,Rest_30,Mumbai,Mexican
+31,Rest_31,Delhi,Italian
+32,Rest_32,Bangalore,Fast Food
+33,Rest_33,Mumbai,Mexican
+34,Rest_34,Mumbai,Italian
+35,Rest_35,Delhi,Italian
+36,Rest_36,Pune,Indian
+37,Rest_37,Mumbai,Fast Food
+38,Rest_38,Mumbai,Indian
+39,Rest_39,Bangalore,Chinese
+40,Rest_40,Hyderabad,Indian
+41,Rest_41,Delhi,Indian
+42,Rest_42,Delhi,Mexican
+43,Rest_43,Pune,Italian
+44,Rest_44,Pune,Fast Food
+45,Rest_45,Delhi,Indian
+46,Rest_46,Pune,Fast Food
+47,Rest_47,Bangalore,Indian
+48,Rest_48,Delhi,Chinese
+49,Rest_49,Pune,Indian
+50,Rest_50,Delhi,Mexican
+51,Rest_51,Hyderabad,Italian
+52,Rest_52,Mumbai,Chinese
+53,Rest_53,Delhi,Indian
+54,Rest_54,Mumbai,Fast Food
+55,Rest_55,Pune,Chinese
+56,Rest_56,Mumbai,Chinese
+57,Rest_57,Delhi,Indian
+58,Rest_58,Hyderabad,Chinese
+59,Rest_59,Pune,Fast Food
+60,Rest_60,Delhi,Chinese
+61,Rest_61,Pune,Fast Food
+62,Rest_62,Bangalore,Indian
+63,Rest_63,Mumbai,Italian
+64,Rest_64,Bangalore,Chinese
+65,Rest_65,Delhi,Italian
+66,Rest_66,Hyderabad,Fast Food
+67,Rest_67,Pune,Chinese
+68,Rest_68,Mumbai,Mexican
+69,Rest_69,Pune,Italian
+70,Rest_70,Delhi,Chinese
+71,Rest_71,Pune,Italian
+72,Rest_72,Mumbai,Chinese
+73,Rest_73,Delhi,Indian
+74,Rest_74,Pune,Italian
+75,Rest_75,Hyderabad,Mexican
+76,Rest_76,Delhi,Mexican
+77,Rest_77,Delhi,Fast Food
+78,Rest_78,Hyderabad,Chinese
+79,Rest_79,Bangalore,Italian
+80,Rest_80,Mumbai,Fast Food
+81,Rest_81,Bangalore,Italian
+82,Rest_82,Pune,Chinese
+83,Rest_83,Hyderabad,Mexican
+84,Rest_84,Bangalore,Indian
+85,Rest_85,Delhi,Mexican
+86,Rest_86,Pune,Fast Food
+87,Rest_87,Pune,Indian
+88,Rest_88,Bangalore,Fast Food
+89,Rest_89,Bangalore,Chinese
+90,Rest_90,Hyderabad,Indian
+91,Rest_91,Mumbai,Fast Food
+92,Rest_92,Bangalore,Chinese
+93,Rest_93,Bangalore,Mexican
+94,Rest_94,Delhi,Chinese
+95,Rest_95,Pune,Italian
+96,Rest_96,Mumbai,Chinese
+97,Rest_97,Delhi,Chinese
+98,Rest_98,Hyderabad,Italian
+99,Rest_99,Hyderabad,Fast Food
+100,Rest_100,Bangalore,Fast Food
